@@ -16,3 +16,7 @@ module.exports = {
     },
   ],
 };
+
+module.exports = {
+  pathPrefix: "/middle-school-computer-science",
+}
