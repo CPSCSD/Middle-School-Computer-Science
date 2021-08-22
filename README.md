@@ -1,1 +1,3 @@
 # middle-school-computer-science
+
+This is where we will have things...
