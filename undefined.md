@@ -1,2 +1,0 @@
-# Eight Grade Computer Science
-
