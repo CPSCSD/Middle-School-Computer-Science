@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [Eight Grade Computer Science](undefined.md)
+* [Eight Grade Computer Science](eight-grade-computer-science.md)
 * [Curriculum Map](summary.md)
 * [unit1](unit1/README.md)
   * [Readme](unit1/unit1.md)

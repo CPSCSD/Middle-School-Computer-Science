@@ -1,9 +1,9 @@
-# Table of contents
+# Curriculum Map
 
-* [Home](README.md)
+* [Home](./)
 * [Curriculum Map](summary.md)
-* [unit1](unit1/README.md)
+* [unit1](unit1/)
   * [Readme](unit1/unit1.md)
-  * [day1](unit1/day1/README.md)
+  * [day1](unit1/day1/)
     * [lesson](unit1/day1/lesson.md)
 
