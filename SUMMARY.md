@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Home](README.md)
-* [Eight Grade Computer Science](eight-grade-computer-science.md)
-* [Curriculum Map](summary.md)
-* [unit1](unit1/README.md)
-  * [Readme](unit1/unit1.md)
-  * [day1](unit1/day1/README.md)
-    * [lesson](unit1/day1/lesson.md)
+* [Curriculum Map](README.md)
+* [Unit 1 - Problem Solving](unit1/README.md)
+  * [Day 1](unit1/day1.md)
+  * [Day 2](unit1/day-2.md)
+  * [Day 3](unit1/day-3.md)
+  * [Day 4](unit1/day-4.md)
+* [Unit 2 - Design Process](unit-2-design-process/README.md)
+  * [Day 5](unit-2-design-process/day-5.md)
 
